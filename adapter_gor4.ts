@@ -1,0 +1,1 @@
+const service_gor4 = <T>(args: T): T => { return args; };
